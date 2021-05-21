@@ -1,1 +1,1 @@
-declare function kornify(): void;
+declare function answerify(): void;

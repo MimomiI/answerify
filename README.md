@@ -1,22 +1,23 @@
-# KoЯnify
+# ∀nswerify
 
-Because Я is always better than R!
+To give you answer
+個性の嵐を起こせ
 
-Inspired by [Cornify](https://github.com/Cornify/Cornify). Idea originally dropped by [Scott Tolinski](https://github.com/stolinski) in the [Syntax podcast](https://syntax.fm/show/324/typescript-fundamentals).
+Forked from [KoЯnify](https://github.com/dvdhllbrg/kornify).
 
-# How to KoЯnify
+# How to ∀nswerify
 
-To add the KoЯnify script to your website, include this script tag in your HTML:
+To add the ∀nswerify script to your website, include this script tag in your HTML:
 ~~~html
-<script src="https://cdn.jsdelivr.net/gh/dvdhllbrg/kornify/kornify.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/miiimooomiii/answerify/answerify.js"></script>
 ~~~
 
-Then you can KoЯnify at will with the following Javascript code:
+Then you can ∀nswerify at will with the following Javascript code:
 
-`kornify();`
+`answerify();`
 
-For example, to add a KoЯnify button you can do:
+For example, to add a ∀nswerify button you can do:
 
 ~~~html
-<button onclick="kornify();">KoЯnify m!</button>
+<button onclick="answerify();">∀nswerify me!</button>
 ~~~

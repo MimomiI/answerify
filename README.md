@@ -1,8 +1,9 @@
 # ∀nswerify
 
-Because Я is always better than R!
+To give you answer
+個性の嵐を起こせ
 
-Inspired by [Cornify](https://github.com/Cornify/Cornify). Idea originally dropped by [Scott Tolinski](https://github.com/stolinski) in the [Syntax podcast](https://syntax.fm/show/324/typescript-fundamentals).
+Forked from [KoЯnify](https://github.com/dvdhllbrg/kornify).
 
 # How to ∀nswerify
 
